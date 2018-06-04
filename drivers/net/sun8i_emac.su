@@ -1,0 +1,12 @@
+sun8i_emac.c:727:13:sun8i_emac_eth_stop	16	static
+sun8i_emac.c:719:12:sun8i_eth_free_pkt	32	static
+sun8i_emac.c:690:12:sun8i_emac_eth_recv	64	static
+sun8i_emac.c:683:12:sun8i_emac_eth_send	96	static
+sun8i_emac.c:623:12:sun8i_mdio_reset	48	static
+sun8i_emac.c:178:12:sun8i_mdio_write	48	static
+sun8i_emac.c:146:12:sun8i_mdio_read	32	static
+sun8i_emac.c:214:12:_sun8i_write_hwaddr.isra.0	0	static
+sun8i_emac.c:595:12:sun8i_eth_write_hwaddr	32	static
+sun8i_emac.c:676:12:sun8i_emac_eth_start	64	static
+sun8i_emac.c:741:12:sun8i_emac_eth_probe	48	static
+sun8i_emac.c:766:12:sun8i_emac_eth_ofdata_to_platdata	96	static

@@ -1,0 +1,10 @@
+clock_sun6i.c:57:6:clock_init_sec	0	static
+clock_sun6i.c:70:6:clock_init_uart	0	static
+clock_sun6i.c:135:6:clock_set_pll3	0	static
+clock_sun6i.c:153:6:clock_set_pll3_factors	0	static
+clock_sun6i.c:168:6:clock_set_pll5	0	static
+clock_sun6i.c:241:6:clock_set_pll10	0	static
+clock_sun6i.c:282:14:clock_get_pll3	0	static
+clock_sun6i.c:294:14:clock_get_pll6	0	static
+clock_sun6i.c:304:14:clock_get_mipi_pll	16	static
+clock_sun6i.c:318:6:clock_set_de_mod_clock	16	static

@@ -1,0 +1,2 @@
+dram_sun8i_h3.c:461:13:mctl_set_cr.constprop	0	static
+dram_sun8i_h3.c:780:15:sunxi_dram_init	192	static

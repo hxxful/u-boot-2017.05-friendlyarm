@@ -1,0 +1,1 @@
+cmd_examples/standalone/hello_world := aarch64-linux-gnu-ld.bfd   -g -Ttext 0x42000000 -o examples/standalone/hello_world -e hello_world examples/standalone/hello_world.o examples/standalone/libstubs.o -L /root/Workspace/tools/toolchains/gcc-linaro-6.4.1-2017.11-x86_64_aarch64-linux-gnu/bin/../lib/gcc/aarch64-linux-gnu/6.4.1 -lgcc

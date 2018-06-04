@@ -1,0 +1,2 @@
+ohci-sunxi.c:74:12:ohci_usb_remove	32	static
+ohci-sunxi.c:35:12:ohci_usb_probe	48	static

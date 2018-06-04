@@ -1,0 +1,13 @@
+board.c:768:13:setup_environment	144	static
+board.c:81:5:board_init	32	static
+board.c:135:5:dram_init	32	static
+board.c:374:5:board_mmc_init	32	static
+board.c:409:6:i2c_init_board	0	static
+board.c:505:5:nanopi_spl_read_gpio	80	static
+board.c:534:5:nanopi_spl_read_extra_gpio	80	static
+board.c:566:5:nanopi_spl_get_board	48	static
+board.c:602:6:sunxi_board_init	224	static
+board.c:712:6:get_board_serial	32	static
+board.c:840:5:misc_init_r	32	static
+board.c:864:5:ft_board_setup	16	static
+board.c:883:5:board_fit_config_name_match	48	static

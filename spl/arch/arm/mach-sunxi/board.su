@@ -1,0 +1,5 @@
+board.c:156:6:s_init	16	static
+board.c:217:5:spl_boot_device	16	static
+board.c:257:5:spl_boot_mode	0	static
+board.c:262:6:board_init_f	16	static
+board.c:275:6:reset_cpu	0	static

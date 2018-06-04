@@ -1,0 +1,4 @@
+spl_fit.c:14:14:fdt_getprop_u32	32	static
+spl_fit.c:58:12:spl_fit_get_image_node	96	static
+spl_fit.c:142:12:spl_load_fit_image	96	static
+spl_fit.c:187:5:spl_load_simple_fit	128	static
