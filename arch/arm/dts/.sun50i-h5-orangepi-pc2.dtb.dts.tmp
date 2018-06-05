@@ -554,12 +554,12 @@
 # 17 "include/configs/sunxi-common.h" 2
 # 1 "include/linux/stringify.h" 1
 # 18 "include/configs/sunxi-common.h" 2
-# 357 "include/configs/sunxi-common.h"
+# 361 "include/configs/sunxi-common.h"
 # 1 "include/config_distro_defaults.h" 1
-# 358 "include/configs/sunxi-common.h" 2
-# 477 "include/configs/sunxi-common.h"
+# 362 "include/configs/sunxi-common.h" 2
+# 481 "include/configs/sunxi-common.h"
 # 1 "include/config_distro_bootcmd.h" 1
-# 478 "include/configs/sunxi-common.h" 2
+# 482 "include/configs/sunxi-common.h" 2
 # 34 "include/configs/sun8i.h" 2
 # 6 "include/config.h" 2
 # 1 "./arch/arm/include/asm/config.h" 1

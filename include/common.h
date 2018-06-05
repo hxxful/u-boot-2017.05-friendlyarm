@@ -97,6 +97,14 @@ typedef volatile unsigned char	vu_char;
 #define CONFIG_SYS_SUPPORT_64BIT_DATA
 #endif
 
+#define GPA_CON_ADDR 0x01C20804
+#define GPA_DAT_ADDR 0x01C20810
+#define GPA_CON (*((volatile unsigned int *)GPA_CON_ADDR))
+#define GPA_DAT (*((volatile unsigned int *)GPA_DAT_ADDR))
+#define LED0_INIT {GPA_CON &= 0xFFFFF0FF; GPA_CON |= 0x00000100;}
+#define LED0_ON   (GPA_DAT |= 0x00000400)
+#define LED0_OFF  (GPA_DAT &= 0xFFFFFBFF)
+
 #ifdef DEBUG
 #define _DEBUG	1
 #else

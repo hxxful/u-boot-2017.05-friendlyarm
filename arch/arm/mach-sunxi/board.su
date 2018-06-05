@@ -1,2 +1,2 @@
-board.c:156:6:s_init	16	static
-board.c:275:6:reset_cpu	0	static
+board.c:162:6:s_init	16	static
+board.c:281:6:reset_cpu	0	static

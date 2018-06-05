@@ -1123,7 +1123,7 @@ main:
 	.uleb128 0x10
 	.4byte	.LASF130
 	.byte	0x2
-	.2byte	0x125
+	.2byte	0x12d
 	.4byte	0xfa
 	.uleb128 0xa
 	.4byte	0x99
@@ -1133,22 +1133,22 @@ main:
 	.uleb128 0x10
 	.4byte	.LASF131
 	.byte	0x2
-	.2byte	0x127
+	.2byte	0x12f
 	.4byte	0x815
 	.uleb128 0x10
 	.4byte	.LASF132
 	.byte	0x2
-	.2byte	0x174
+	.2byte	0x17c
 	.4byte	0xfa
 	.uleb128 0x10
 	.4byte	.LASF133
 	.byte	0x2
-	.2byte	0x175
+	.2byte	0x17d
 	.4byte	0xfa
 	.uleb128 0x10
 	.4byte	.LASF134
 	.byte	0x2
-	.2byte	0x176
+	.2byte	0x17e
 	.4byte	0xfa
 	.uleb128 0xa
 	.4byte	0xd6
@@ -2090,8 +2090,6 @@ main:
 	.string	"initrd_end"
 .LASF101:
 	.string	"bootm_headers"
-.LASF185:
-	.string	"/root/Workspace/ytkj/bsp/uboot/u-boot-2017.05-friendlyarm"
 .LASF129:
 	.string	"images"
 .LASF127:
@@ -2256,6 +2254,8 @@ main:
 	.string	"bi_flashstart"
 .LASF169:
 	.string	"net_boot_file_size"
+.LASF185:
+	.string	"/root/Workspace/ytkj/tracking/bsp/uboot/u-boot-2017.05-friendlyarm"
 .LASF94:
 	.string	"image_start"
 .LASF41:
